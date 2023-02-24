@@ -1,0 +1,10 @@
+PUT http://127.0.0.1:8080/
+Content-Type: application/json
+
+{
+  "id": "63e66d7cf7ff1bc9a7bbac8d",
+  "Data": "23/02/23",
+  "Time": "17:22:15",
+  "Point": "4 cpu",
+  "Status": "Exceeding the critical operating mark"
+}
